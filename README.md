@@ -103,43 +103,6 @@ Designing relational databases and optimizing queries for better performance.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎫 Online Ticketing System
-
-A web-based ticketing platform designed to manage online ticket reservations and streamline the ticketing process.
-
-**Tech Stack:** MERN Stack — MongoDB, Express.js, React.js, Node.js
-
----
-
-### 🛒 Delmart E-Commerce
-
-An e-commerce web application with a Laravel backend and React frontend, designed to provide a modern shopping experience and structured API integration.
-
-**Tech Stack:** Laravel · React · MySQL · REST API
-
----
-
-### 🍰 Nonoi Bake
-
-A modern bakery website built with a responsive and clean interface to showcase products and provide an engaging customer experience.
-
-**Tech Stack:** Next.js · Tailwind CSS
-
----
-
-### 🐔 LokeswaraUnggas
-
-A responsive web platform developed for a poultry-related business, focusing on clear product presentation and a user-friendly interface.
-
-**Tech Stack:** React.js · Tailwind CSS
-
----
->
-
----
-
 ## 📈 Contribution
 
 <p align="center">
