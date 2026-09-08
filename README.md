@@ -1,6 +1,10 @@
 ![Bintang Kresna](img/github-header-banner.png)
 
+<div align="center">
+
 ## Welcome to my GitHub 👋
+
+---
 
 I'm a **Information Systems graduate and Full Stack Developer** with a strong interest in building modern, scalable, and maintainable web applications.
 
@@ -8,7 +12,24 @@ My development journey focuses on **frontend and backend development**, with han
 
 I’m always learning, building, and exploring new technologies to become a better software developer.
 
----
+<br>
+
+<a href="https://bintang-kresna-porto.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="mailto:bkresnaadelard@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/bintang-kresna-adelard-7467b1277/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+
+
+
 
 ## 👨‍💻 About Me
 
