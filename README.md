@@ -132,17 +132,6 @@ Designing relational databases and optimizing queries for better performance.
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced Laravel Architecture
-* Vue.js & Inertia.js
-* Backend & RESTful API Development
-* Database Optimization
-* System Design
-* Modern Frontend Development
-* Software Architecture & Clean Code
-
----
 
 ## 🤝 Let's Connect
 
