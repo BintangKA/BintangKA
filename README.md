@@ -130,18 +130,9 @@ Designing relational databases and optimizing queries for better performance.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BintangKA&theme=transparent&hide_border=true" alt="GitHub Streak">
 </p>
 
----
 
 
-## 🤝 Let's Connect
 
-I'm always open to discussing **web development, software engineering, technology, projects, and collaboration opportunities**.
-
-<p>
-  <a href="https://github.com/BintangKA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
 
 ---
 
