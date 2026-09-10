@@ -35,7 +35,7 @@ I’m always learning, building, and exploring new technologies to become a bett
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏆 Experience & Journey
 
@@ -52,7 +52,7 @@ I’m always learning, building, and exploring new technologies to become a bett
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="img/about-me-github.jpg" width="90%" alt="About Me">
 
@@ -132,7 +132,13 @@ Designing relational databases and optimizing queries for better performance.
 
 
 
-
+### Github Statistic
+<p align="">
+<a href="https://github.com/Fikarroyal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BintangKA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BintangKA&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 
