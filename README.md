@@ -1,4 +1,4 @@
-![Bintang Kresna](img/github-header-banner.png)
+![Bintang Kresna](img/github-header-gif.gif)
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 I'm a **Information Systems graduate and Full Stack Developer** with a strong interest in building modern, scalable, and maintainable web applications.
 
-My development journey focuses on **frontend and backend development**, with hands-on experience using **Laravel, React, Next.js, Vue.js, MySQL, and RESTful APIs**. I enjoy turning business requirements into practical digital solutions while continuously improving code quality, performance, and user experience.
+My development journey focuses on Fullstack development, with hands-on experience using **React, Next.js, Vue.js, Laravel, MySQL, and RESTful APIs**. I enjoy turning business requirements into practical digital solutions while continuously improving code quality, performance, and user experience.
 
 I’m always learning, building, and exploring new technologies to become a better software developer.
 
@@ -40,15 +40,15 @@ I’m always learning, building, and exploring new technologies to become a bett
 ### 🏆 Experience & Journey
 
 * 🎓 Bachelor's Degree in **Information Systems** from Universitas Amikom Yogyakarta
-* 💼 Currently working as a **Laravel Programmer / Full Stack Developer** at PT Javas Teknologi Integrator
-* 🚀 Previously worked as a **Full Stack Web Developer Intern** at PT GIT Solution
-* 💻 Experienced in developing web applications using **Laravel, React, Next.js, Vue.js, and MySQL**
+* 🚀 Previously worked as a **Laravel Programmer / Full Stack Developer** at PT Javas Teknologi Integrator
+
+
 * 🔗 Experienced in building and integrating **RESTful APIs**
-* ⚡ Improved MySQL queries and database operations, reducing average query response time by **30%**
+
 * 🧩 Experienced in developing projects for different business needs through freelance and professional work
 * 🌱 Continuously improving my skills through real-world projects, experimentation, and learning
 * 🔍 Interested in **Full Stack Development, Backend Engineering, System Analysis, and Web Application Architecture**
-* 🚀 I enjoy transforming complex requirements into simple, practical, and maintainable solutions
+
 
 </td>
 
@@ -80,13 +80,7 @@ Designing relational databases and optimizing queries for better performance.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</p>
 
 ### 🎨 Frontend Development
 
