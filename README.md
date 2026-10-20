@@ -1,5 +1,6 @@
-![Bintang Kresna](img/github-header-gif.gif)
-
+<p align="center">
+  <img src="img/github-header-gif.gif" alt="Bintang Kresna" />
+</p>
 <div align="center">
 
 ## Welcome to my GitHub 👋
