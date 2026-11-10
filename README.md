@@ -83,38 +83,35 @@ Designing relational databases and optimizing queries for better performance.
 
 
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/react?variant=light" width="40" height="40" alt="React" title="React">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/vuejs?variant=light" width="40" height="40" alt="Vue.js" title="Vue.js">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/nextjs?variant=light" width="40" height="40" alt="Next.js" title="Next.js">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/tailwindcss?variant=light" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">
+
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/laravel?variant=light" width="40" height="40" alt="Laravel" title="Laravel">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/codeigniter?variant=light" width="40" height="40" alt="CodeIgniter" title="CodeIgniter">
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/mysql?variant=light" width="40" height="40" alt="MySQL" title="MySQL">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/postgresql?variant=light" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
 </p>
 
-### 🔧 Tools & Development
+### Tools & Development
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/github?variant=light" width="40" height="40" alt="GitHub" title="GitHub">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/postman?variant=light" width="40" height="40" alt="Postman" title="Postman">
 </p>
 
 ---
